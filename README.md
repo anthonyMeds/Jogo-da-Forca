@@ -25,7 +25,8 @@ O jogo tem as seguintes características:
 1. Clone o repositório do jogo
 
 ```
-git clone https://github.com/seu-usuario/jogo-da-forca-c.git
+git clone https://github.com/anthonyMeds/Jogo-da-Forca.git
+
 
 ```
 2. Compile e execute
