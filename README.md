@@ -1,6 +1,8 @@
 
 # Jogo da Forca em C
 
+objetivo do projeto : Treinar modularização e lógica de programação.
+
 Esse é um jogo da forca implementado em C. O jogo consiste em adivinhar uma palavra secreta letra por letra até que todas as letras sejam reveladas.
 
 
